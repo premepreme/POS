@@ -1,9 +1,3 @@
-# Laravel 8 - Point of Sale Application
-
-## Screenshots
-
-![preview img](/preview.png)
-![preview img](/preview2.png)
 
 ## Run Locally
 
